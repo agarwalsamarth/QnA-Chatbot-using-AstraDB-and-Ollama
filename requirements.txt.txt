@@ -1,0 +1,11 @@
+langchain
+langchain-community
+sentence-transformers
+cassio
+docx2txt
+pypdf
+python-dotenv
+tqdm
+numpy
+pandas
+astrapy>=0.5.0
