@@ -56,15 +56,24 @@ A lightweight, local Q&A assistant that lets you query your own .txt, .pdf, or .
 **🧠 Tech Stack**
 Tool	Role
 LangChain	Framework for chaining LLM and retrieval
+
 Astra DB	Vector DB for document storage & retrieval
+
 CassIO	Python SDK for Astra
+
 Ollama	Local LLM runtime (e.g., Mistral)
+
 HuggingFace Transformers	Embedding model
+
 Python-dotenv	Secure .env management
 
 **.env file**
 ASTRA_DB_APPLICATION_TOKEN="AstraCS:*********"
+
 ASTRA_DB_ID="*******"
+
 ASTRA_DB_KEYSPACE="actuarial_keyspace" #Container
+
 ASTRA_DB_REGION="us-east-2"
+
 ASTRA_DB_COLLECTION="actuarial_documents" #Table Name
