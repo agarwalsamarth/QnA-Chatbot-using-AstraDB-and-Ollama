@@ -21,22 +21,35 @@ A lightweight, local Q&A assistant that lets you query your own .txt, .pdf, or .
 🚀** **Project Workflow****
 
 **1. Document Ingestion**
+
 -Place your documents in Docs_For_Ingestion/
+
 -Run Ingest_Docs.py:
+  
   Loads and splits documents
+  
   Generates embeddings using sentence-transformers/all-MiniLM-L6-v2
+  
   Uploads chunks + embeddings to AstraDB
 
 **2. Chatbot Setup**
+
 -Run QA_Bot.py:
+  
   Initializes Ollama model (e.g., Mistral)
+  
   Connects to AstraDB vector store
+  
   Enables chat history memory
 
 **3. Interactive Q&A**
+
 -Ask anything about your documents:
+  
   Specific facts: What is the total loss in 2023?
+  
   Follow-up queries: And what about 2024?
+  
   Summaries: Give a loss breakdown by profile
 
 
