@@ -46,12 +46,13 @@ Actuaries are modeling **aggregate exposures using cyber event trees**, and proj
 
 6. KEY QUOTES FROM INDUSTRY EXPERTS
 
-- “We are entering an era where actuarial science must evolve faster than the risks it measures.” – Dr. Anika Patel, Chief Actuary, Munich Re
+- “We are entering an era where actuarial science must evolve faster than the risks it measures.” – Dr. Anika Patel, Chief Actuary
 - “Traditional credibility models fail in high-volatility regions. We're now embedding scenario learning with geopolitical variables.” – Joshua Lee, Senior P&C Actuary
-- “Our biggest exposure isn’t just financial—it’s the erosion of statistical predictability.” – Arvind Menon, Global Risk Head, AXA
+- “Our biggest exposure isn’t just financial—it’s the erosion of statistical predictability.” – Arvind Menon, Global Risk Head
 
 7. CONCLUSION
 
 The actuarial profession is undergoing a paradigm shift. Wars, climate disruption, cyber warfare, and AI are reshaping the models, assumptions, and roles actuaries play in modern risk management. As we move further into 2025, the demand for **flexible, explainable, and scenario-based actuarial frameworks** will continue to grow.
+
 
 [End of Report]
